@@ -1,5 +1,6 @@
 # MyChromeLauncher
-简易的GoogleChrome自定义引导（https://www.chias.me/post-470#Chromeproject）
+
+[简易的GoogleChrome自定义引导](https://rewrz.com/archive/mychromelauncher-portable-version-of-googlechrome)
 
 这个东西其实国内已经有人做过了，而且还做的很好，非常出名，只不过并没有开源。
 
